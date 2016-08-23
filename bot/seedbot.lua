@@ -208,25 +208,83 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "onservice",
-    "inrealm",
-    "ingroup",
-    "inpm",
-    "banhammer",
-    "stats",
-    "anti_spam",
-    "owners",
-    "arabic_lock",
-    "set",
-    "get",
-    "broadcast",
-    "download_media",
-    "invite",
-    "all",
-    "leave_ban",
+    "aboshosho1"
+    "aboshosho2"
+    "aboshosho4"
     "admin"
+    "anti_spam"
+    "ar_badword"
+    "ar_broadcast"
+    "ar_english"
+    "ar_fwd"
+    "ar_getfile"
+    "ar_help"
+    "ar_lock-bot"
+    "ar_me"
+    "ar_media"
+    "ar_msg-checks"
+    "ar_onservive"
+    "ar_owners"
+    "ar_plugins"
+    "ar_redis"
+    "ar_run1"
+    "ar_supergroup"
+    "ar_tag"
+    "ar_username"
+    "arabic_lock"
+    "azan"
+    "banhammer"
+    "block"
+    "broadcast"
+    "ch"
+    "dd"
+    "deltmsg"
+    "dev"
+    "get"
+    "he1"
+    "he2"
+    "he3"
+    "he4"
+    "hedev"
+    "help"
+    "info"
+    "ingroup"
+    "inpm"
+    "inrealm"
+    "invite"
+    "lk_emoji"
+    "lk_english"
+    "lk_fwd"
+    "lk-join"
+    "lk_media"
+    "lk_tag"
+    "lk_username"
+    "me"
+    "msg_checks"
+    "onservice"
+    "owners"
+    "plugins"
+    "redis"
+    "ermsg"
+    "run"
+    "run1"
+    "send"
+    "set"
+    "stats"
+    "sticker23"
+    "supergroup"
+    "tagall"
+    "textphoto"
+    "time"
+    "translate"
+    "voice"
+    "weather"
+    "welcome"
+    "whitelist"
+    "writer"
+    
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {188248946,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
