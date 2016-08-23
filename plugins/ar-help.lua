@@ -18,7 +18,12 @@ if is_momod(msg) and matches[1] == 'مساعدة' then
 
 🔹- م مطور === الاوامر الخاصة بالمطور 
 🔹➖🔸➖🔹➖🔸➖🔹➖🔸
-🔹Channel : @MUSIC_TEXAS 🙂🍷
+🔹Channel : @abo_shosho98
+
+اطلب البوت من كروب الدعم ://
+
+
+https://telegram.me/joinchat/CgJAOkDLhldXGB60lzf2yw
 
     ]]
   reply_msg(reply_id, ghost, ok_cb, false) 
