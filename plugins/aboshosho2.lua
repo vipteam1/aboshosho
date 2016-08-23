@@ -12,7 +12,7 @@ do
 function run(msg, matches)
 local reply_id = msg['id']
 local S = [[ 
-قبل لتشوف الاوامر تابع قناة البوت @S94IQ ❤️💋
+قبل لتشوف الاوامر تابع قناة البوت @aboaloshbot
 
 ✔️تعمل جميع الاوامر بدون وضع / او !
 ا🔸➖🔹➖🔸➖🔹➖🔸
@@ -38,9 +38,12 @@ local S = [[
 ا🔸➖🔹➖🔸➖🔹➖🔸
 🃏🔺للأستفسار:- راسل المطور :- ☢⚜ 
 ✋🏿👇🏿
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+#Dev : @abo_shosho98
+#Dev_bot : @aboaloshbot
+#Dev_Channel : اطلب البوت من كروب الدعم ://
+
+
+https://telegram.me/joinchat/CgJAOkDLhldXGB60lzf2yw
  ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
