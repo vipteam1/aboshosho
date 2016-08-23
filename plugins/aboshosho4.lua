@@ -12,7 +12,7 @@ do
 local function run(msg, matches)
 local reply_id = msg['id']
 if is_sudo(msg) and matches[1]== "م المطور" then
-local S = [[  قبل لتشوف الاوامر تابع قناة السورس @S94IQ ❤️💋
+local S = [[  قبل لتشوف الاوامر تابع قناة السورس @aboaloshbot
 
 ✔️تعمل جميع الاوامر بدون وضع / او !
 ا🔸➖🔹➖🔸➖🔹➖🔸
@@ -43,9 +43,12 @@ local S = [[  قبل لتشوف الاوامر تابع قناة السورس @S
 ا🔸➖🔹➖🔸➖🔹➖🔸
 🃏🔺للأستفسار:- راسل المطور :- ☢⚜ 
 ✋🏿👇🏿
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+#Dev : @abo_shosho98
+#Dev_bot : @aboaloshbot
+#Dev_Channel : اطلب البوت من كروب الدعم ://
+
+
+https://telegram.me/joinchat/CgJAOkDLhldXGB60lzf2yw
 ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
