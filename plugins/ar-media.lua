@@ -1,10 +1,10 @@
 --[[ 
 $ :) 
--- - ( #MASCO_ماسكو ) - -- 
+-- - ( #aboshosho) - -- 
 $ :) 
--- - ( @IQ_ABS ) - -- 
+-- - ( @aboshosho ) - -- 
 $ :) 
---Channel-( @DEV_PROX )-- 
+--Channel-( @aboshosho )-- 
 $ :) 
 ]]-- 
 
